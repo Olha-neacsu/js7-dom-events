@@ -1,3 +1,4 @@
+// 'use srtict';
 /*
  * На сторінці SmileCare є заголовок і список послуг клініки.
  * 1. Знайди заголовок за класом .heading і виведи його в консоль.
@@ -7,9 +8,9 @@
 
 // Твій код тут
 
-const title = document.querySelector('.heading');
-const serviceItems = document.querySelectorAll('.service');
+// const title = document.querySelector('.heading');
+// const serviceItems = document.querySelectorAll('.service');
 
-console.log(title);
-console.log(serviceItems);
-console.log(serviceItems.length);
+// console.log(title);
+// console.log(serviceItems);
+// console.log(serviceItems.length);
